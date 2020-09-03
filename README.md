@@ -7,4 +7,4 @@ Significant Stream Chemistry Response to Temperature Variations in a High-Elevat
 
 
 
-***Supporting Coal Creek data including meteorology, radiation, and SNOTEL data***
+***Supporting data including Coal Creek meteorology, radiation, and SNOTEL data***
