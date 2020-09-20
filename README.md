@@ -9,6 +9,6 @@ Significant Stream Chemistry Response to Temperature Variations in a High-Elevat
 
 **Data availability**: The daily discharge data (site ID 09111250) and long-term stream chemistry (site ID 385224106590100) is available from the USGS website (https://waterdata.usgs.gov/co/nwis/). The high-frequency stream chemistry data is available at data portal for East River watershed in Colorado, managed by Lawrence Berkeley National Laboratory (https://watershed.lbl.gov/). 
 
+**Machine learning extrapolation**: To infer the missing USGS dicharge records in 2000 - 2006, we used the machine learning statistical approach Gaussian Process Regression (GPR). We trained a discharge model (Matlab R2018a, Machine Learning Regression Toolbox, 5-fold cross-validation) using the odd years of climate and discharge data from 2006 – 2019, and tested the model using even year data. Specifically, the model uses time series of precipitation, radiation, temperature, pressure, wind speed, SNOTEL data, and discharge data as inputs for training, and output missing discharge data in 2000 – 2006. The Nash–Sutcliffe Efficiency (NSE) values for the training and testing were 0.9 and 0.7, respectively, both are higher than the NSE satisfactory criteria of 0.5 and therefore are satisfactory. The model input data is deposited in the supporting data folder.
 
-
-***Supporting data including Coal Creek meteorology, radiation, and SNOTEL data***
+***Supporting data includes Machine Learning model inputs such as time-series meteorology, radiation, and SNOTEL data***
