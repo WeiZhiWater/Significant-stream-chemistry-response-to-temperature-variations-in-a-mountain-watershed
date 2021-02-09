@@ -9,13 +9,31 @@
 - We advocate for consistent and persistent monitoring of high elevation streams to record early glimpse of earth surface response to warming.
 
 ## Figures 
-- Climate record in the past 4 decades 
-- Stream chemistry response
-- Bimonthly concentrations and their relative changes (%)
+- Climate and hydrological changes in the past 4 decades 
+- Stream chemistry response in recent years
+- Bimonthly concentrations and their relative changes (%) compared to long-term records
 
-![](figure/StreamChemistryResponse.png)
+### Climate and hydrological changes
+Data from the local Snow Telemetry (SNOTEL) station from 1981 to 2019 indicate the annual average minimum and maximum daily temperature have increased by ~1.6 and 2 °C, respectively. The mean and maximum discharge were highly responsive to Snow Water Equivalent (SWE). Declines in SWE since 1981 have occurred (25 mm/decade, or 6% of average) but are not statistically significant (p = 0.20). Snow fraction (snowfall to total annual precipitation) appear to be declining on the order of ~1% per year. The temperature increase during 2015–2018, superimposed upon an already accelerated warming trend, likely exacerbated drought conditions in 2018.
 
-![](figure/ConcentrationChange.png)
+<p align="center">
+  <img src="/figures/Figure 1.jpg" alt="Climate record in the past 4 decades" width="600">
+</p>
+
+### Stream chemistry response
+The most marked changes were observed for dissolved organic carbon (DOC). It remained within the range of the long-term record of 1–5 mg/L in 2016, escalated to as high as 15–20 mg/L in the warm years 2017 and 2018, and fell within the long-term range again in the cold year 2019. Other solutes (e.g., Fe, Al) that are known to be impacted by soil biogeochemistry and elemental cycling also increased. Total nitrogen (TN) concentration remained within its historical range of 0.1–0.4 mg/L, somewhat surprising considering active nitrogen cycling in shallow soils. Other nutrients, including P, PO4, and NO3, however, did vary from year to year.
+
+<p align="center">
+  <img src="/figures/StreamChemistryResponse.png" alt="Stream chemistry response" width="600">
+</p>
+
+### Bimonthly averages indicate significant changes under post-snowmelt, dry conditions
+Additional analysis for concentrations averaged in every 2 months shows that concentration peaks generally occurred during snowmelt, but the percentage increase maximized during post-snowmelt, the low flow period from August to November. Pb concentrations increased in 2016 and decreased to levels lower than the historical records, especially during snowmelt in 2017 and 2018. Its pre- and post-snowmelt concentrations however were still higher than long-term concentrations.
+
+<p align="center">
+  <img src="/figures/concentrationChange.png" alt="Stream chemistry response" width="600">
+</p>
+
 
 ## Data availability
 The daily discharge data (site ID 09111250) and long-term stream chemistry (site ID 385224106590100) is available from the USGS website (https://waterdata.usgs.gov/co/nwis/). The high-frequency stream chemistry data is available at data portal for East River watershed in Colorado, managed by Lawrence Berkeley National Laboratory (https://watershed.lbl.gov/). 
