@@ -31,7 +31,7 @@ The most marked changes were observed for dissolved organic carbon (DOC). It rem
 Additional analysis for concentrations averaged in every 2 months shows that concentration peaks generally occurred during snowmelt, but the percentage increase maximized during post-snowmelt, the low flow period from August to November. Pb concentrations increased in 2016 and decreased to levels lower than the historical records, especially during snowmelt in 2017 and 2018. Its pre- and post-snowmelt concentrations however were still higher than long-term concentrations.
 
 <p align="center">
-  <img src="/figures/concentrationChange.png" alt="Stream chemistry response" width="600">
+  <img src="/figures/ConcentrationChange.png" alt="Stream chemistry response" width="600">
 </p>
 
 
